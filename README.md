@@ -1,4 +1,4 @@
-# openbanking_side_project
+# openbanking_BMW
 기능 : 계좌조회, 입금, 출금 <br>
 구현 방식 : 각자 개발 후 코드 리뷰 <br>
 사용 기술 (B) : <br>
